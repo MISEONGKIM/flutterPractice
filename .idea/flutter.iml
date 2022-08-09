@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/todo_list_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/todo_list_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/todo_list_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tabbar_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tabbar_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tabbar_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/sql_example_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/sql_example_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sql_example_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/caculator_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/caculator_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/caculator_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/catch_record/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/catch_record/build" />
+      <excludeFolder url="file://$MODULE_DIR$/catch_record/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/catchcam/build" />
+      <excludeFolder url="file://$MODULE_DIR$/catchcam/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/catchcam/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
